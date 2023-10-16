@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^3.7.2",
+    "rettiwt-api": "^2.2.2"
+  },
+  "devDependencies": {
+    "bun-types": "^0.6.2"
+  }
+}
